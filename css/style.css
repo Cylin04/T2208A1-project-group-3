@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Merienda+One&family=Nunito:wght@200;300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap');
 
 :root{
    --main-color:#be9c79;
@@ -10,7 +10,7 @@
 }
 
 *{
-   font-family: 'Nunito', sans-serif;
+   font-family: 'Sawarabi Gothic', sans-serif;
    margin:0; padding:0;
    box-sizing: border-box;
    outline: none; border:none;
@@ -195,17 +195,13 @@ section{
 .header ul li{
    display: inline-block;
    position: relative;
-   color: var(--light-color) !important;
-}
-.header ul li a{
-   counter-reset: var(--light-color) !important;
 }
 .header li ul{
    position: absolute;
    top: 100%;
    left: 0;
    width: 40rem;
-   background-color: var(--light-color);
+   background-color: var(--white);
    padding: 1rem;
    margin: 0;
    text-align: left;
@@ -232,6 +228,10 @@ section{
    margin-left: 2rem;
    font-size: 2rem;
    color:var(--black);
+}
+
+.header .flex .navbar a{
+   color: var(--light-color);
 }
 
 .header .flex .navbar a:hover{
