@@ -7,10 +7,11 @@ p,li{
   font-family: 'Amiri', serif;
 }
 .wrap_top {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto auto;
 }
-.d1 {
-  width: 50%;
+.wrap_top1 {
+  display: flex;
 }
 
 .containerimg {
@@ -25,15 +26,17 @@ p,li{
     height: 600px;
     width: 1100px;
   }
+  .image2 {
+    height: 500px;
+    width: 500px;
+  }
   .image {
-    width: 90%;
+    width: 600px;
     height: auto;
     padding-bottom: 1rem;
     }
 .textimg {
     color: red;
-    width: 100%;
-    margin: auto;
 }
 input:required {
     border-bottom: thin solid rgb(233, 24, 24);
