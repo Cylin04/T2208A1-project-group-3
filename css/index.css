@@ -38,6 +38,11 @@ input:required {
 .container-fluid{
   padding: 0 10%;
 }
+.mot{
+  font-size: 22px;
+  color: darkred;
+  font-weight: bold;
+}
  
 .kyluc{
     margin-top: 1rem;
