@@ -77,6 +77,10 @@ body{
 
 li{
     font-family: 'Amiri', serif;
+    padding-left: 30px;
+  }
+  a{
+    color: rgb(129, 139, 147);
   }
 
 h3{
@@ -91,3 +95,6 @@ h1{
     color: orange;
     font-weight: bold;
   }
+  p{
+    text-align: justify;
+}

@@ -39,9 +39,9 @@ h1{
 b{
   color: blue;
 }
-p{
+/* p{
     text-align: justify;
-}
+} */
 body{
   font-size: 18px;
 }
@@ -50,6 +50,4 @@ h2{
   font-weight: bold;
 }
 
-li{
-  font-family: 'Amiri', serif;
-}
+
