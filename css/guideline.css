@@ -39,7 +39,9 @@ h1{
 b{
   color: blue;
 }
-
+p{
+    text-align: justify;
+}
 body{
   font-size: 18px;
 }
