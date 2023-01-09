@@ -84,15 +84,6 @@ h4{
     text-align: center;
 }
 
-h2:hover,
-.tags a:hover,
-.tags a:first-child{
-    background:  var(--gradient-l-r);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    cursor: pointer;
-}
-
 
 /* Card body */
 

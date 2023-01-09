@@ -35,6 +35,9 @@ input:required {
     color:var(--black);
     line-height: 2;
  }
+.container-fluid{
+  padding: 0 10%;
+}
  
 .kyluc{
     margin-top: 1rem;

@@ -53,8 +53,7 @@ p,li{
 .what{
   font-size: 18px;
   margin-top: 1rem;
-  background-color: #007BFF;
-  color: aliceblue;
+  color: #555;
   padding: 0.1rem;
   padding-top: 1rem;
   padding-left: 1rem;
@@ -66,8 +65,7 @@ p,li{
 .danger{
   font-size: 18px;
   margin-top: 1rem;
-  background-color: red;
-  color: aliceblue;
+  color: #555;
   padding: 0.1rem;
   padding-top: 1rem;
   padding-left: 1rem;
@@ -78,8 +76,7 @@ p,li{
 .how{
   font-size: 18px;
   margin-top: 1rem;
-  background-color: #28A745;
-  color: aliceblue;
+  color: #555;
   padding: 0.1rem;
   padding-top: 1rem;
   padding-left: 1rem;
@@ -90,8 +87,7 @@ p,li{
 .content{
   font-size: 18px;
   margin-top: 1rem;
-  background-color: #5F6F75;
-  color: aliceblue;
+  color: #555;
   padding: 0.1rem;
   padding-top: 1rem;
   padding-left: 1rem;
